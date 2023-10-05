@@ -1,0 +1,14 @@
+{
+  "name": "asincronia-y-apis-js",
+  "version": "1.0.0",
+  "description": "Ejercicios de Fundamentos de JavaScript - Asincronia y Llamadas a API's en JavaScript",
+  "keywords": [
+    "javascript",
+    "web development"
+  ],
+  "author": "Alex Muñoz <https://github.com/alexmf91>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.5.1"
+  }
+}
