@@ -1,4 +1,4 @@
-// Encadenamiento de Promises
+// Encadenamiento de Promises.
 var suma = 0
 function crearPromiseConRetraso(valor, retraso) {
     suma += valor 
