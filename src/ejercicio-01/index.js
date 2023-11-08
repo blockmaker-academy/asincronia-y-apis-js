@@ -1,1 +1,7 @@
-// Escribe tu código aquí:
+function imprimirConRetraso(callback) {
+    setTimeout(callback, 2000);
+  }
+  
+  imprimirConRetraso(function() {
+    console.log("Hola, mundo");
+  });
