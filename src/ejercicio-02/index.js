@@ -9,5 +9,6 @@ const miPromise = new Promise
 })
 
 miPromise.then((resultado) => {
+    
     console.log(resultado)
 })
